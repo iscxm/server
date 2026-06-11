@@ -2,3 +2,4 @@ flask
 flask-cors
 pyrogram
 TgCrypto
+nest_asyncio
